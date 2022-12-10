@@ -1,4 +1,4 @@
-# Federated Learning for Image Classification
+# Federated Deep Learning for Image Classification
 
 
 ## FedAvg, FedProx, and ADMM-Based Algorithms with IID and Non-IID Data Distributions
